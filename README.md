@@ -1,16 +1,21 @@
-# food_recipe
+# Food Recipe
 
-A new Flutter project.
+It is a simple recipe app that shows a list of trending recipies in a list view.
 
-## Getting Started
+# Table of contents
 
-This project is a starting point for a Flutter application.
+- [Tech, frameworks and libraries used](#tech-,-frameworks-and-libraries-used)
+- [APIs](#apis)
+- [Video](#video)
 
-A few resources to get you started if this is your first Flutter project:
+# Tech, frameworks and libraries used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+• Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# APIs
+
+Rapid Api
+
+# Video
+
+https://drive.google.com/file/d/19xFwTbTppOBU1ORfR0ZCMEsTelbNWKMR/view?usp=sharing
